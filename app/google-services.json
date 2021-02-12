@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "867374192044",
+    "firebase_url": "https://projecttest-8e094-default-rtdb.firebaseio.com",
+    "project_id": "projecttest-8e094",
+    "storage_bucket": "projecttest-8e094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867374192044:android:5fc222a6bd222fd9aa1609",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867374192044-b3439su3np07hui66hgmehkn28ktj0qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIz8a87o89ZpOiXuEUhAWmYybhDhq6qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867374192044-b3439su3np07hui66hgmehkn28ktj0qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867374192044:android:583b00680b30af47aa1609",
+        "android_client_info": {
+          "package_name": "com.example.mypricehistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867374192044-b3439su3np07hui66hgmehkn28ktj0qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIz8a87o89ZpOiXuEUhAWmYybhDhq6qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867374192044-b3439su3np07hui66hgmehkn28ktj0qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867374192044:android:a85d86f1fc3a0da3aa1609",
+        "android_client_info": {
+          "package_name": "com.example.mypricehistorystarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867374192044-b3439su3np07hui66hgmehkn28ktj0qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIz8a87o89ZpOiXuEUhAWmYybhDhq6qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867374192044-b3439su3np07hui66hgmehkn28ktj0qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
